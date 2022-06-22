@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CS3A_Reverse_Polish_Notation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CS3A_Reverse_Polish_Notation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS3A_Reverse_Polish_Notation-Debug-97d4fbdc72b9406830e5.json",
+					"name" : "CS3A_Reverse_Polish_Notation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/john/CLionProjects/CS3A_Reverse_Polish_Notation/cmake-build-debug",
+		"source" : "/Users/john/CLionProjects/CS3A_Reverse_Polish_Notation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
